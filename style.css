@@ -181,7 +181,7 @@ Primary style
   }
   
   .cd-fixed-bg.cd-fixed-bg--3 {
-    background-image: url("http://vunature.com/wp-content/uploads/2017/01/lakes-mountains-night-silhouette-sky-clouds-moon-reflection-shore-glow-moonlight-mood-nature-wallpaper-full-hd-free-download.jpg");
+    background-image: url("mountains.jpg");
   }
   
   .cd-fixed-bg.cd-fixed-bg--4 {
@@ -251,4 +251,7 @@ Primary style
   }
   #name{
     color: red
+  }
+  .subhead{
+    color: white;
   }
